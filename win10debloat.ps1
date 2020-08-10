@@ -34,7 +34,7 @@ $tweaks = @(
 	"InstallAdobe",
 	# "Install7Zip",
 	# "InstallNotepadplusplus",
-	"InstallMediaPlayerClassic",
+	# "InstallMediaPlayerClassic",
 
 	### Windows Apps
 	"DebloatAll",
